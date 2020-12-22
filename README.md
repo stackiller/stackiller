@@ -4,7 +4,7 @@
 Resumindo, sou um programador que gosta de entender como as coisas funcionam, tento fazer disso a minha arte, e acredito que nada é difícil o bastante
 que não possa ser aprendido, só basta um pouco de paciência, tempo e estudo. 
 
-## Skills:
+## :brain: Skills:
 - Dart / Flutter.
 - Bash Scripting
 - C / C++
