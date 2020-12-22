@@ -1,11 +1,10 @@
 ![](_images/header.png)
 
-#
-Gosto de programar e de tentar fazer isso minha arte, acho que o fato de querer entender como o fluxo das coisas funcionam
-foi o que me incentivou a continuar a estudar a computação.
-#
+# Olá, :vulcan_salute:	
+Resumindo, sou um programador que gosta de entender como as coisas funcionam. Tento fazer isso minha arte, e acredito que nada é difícil o bastante
+que não possa ser aprendido, um pouco de paciência, tempo.
 
-### Algumas linguagens de que tenho conhecimento:
+### Skills:
 - Dart / Flutter.
 - Bash Scripting
 - C / C++
