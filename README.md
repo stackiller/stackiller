@@ -1,4 +1,4 @@
-![](_images/header.png)
+![](_images/header-perfil.png)
 
 # Olá, :vulcan_salute:	
 Resumindo, sou um programador que gosta de entender como as coisas funcionam, tento fazer disso a minha arte, e acredito que nada é difícil o bastante
